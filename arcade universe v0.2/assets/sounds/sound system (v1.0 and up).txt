@@ -1,0 +1,12 @@
+Arcade Universe Sound System
+
+Sounds will be added in Version 1.0 and up!!!!!
+
+Planned sounds:
+- Menu clicks
+- Game launch sounds
+- Achievement unlock sound
+- Snake eating sound
+- Win/lose sounds
+- Background music
+- Volume settings
